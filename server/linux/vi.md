@@ -1,6 +1,7 @@
 Top commands:
 
 :q
+:q!
 :w
 :wq
 
